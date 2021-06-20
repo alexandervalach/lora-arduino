@@ -1,2 +1,2 @@
-# lora_arduino_sketches
-Programy pre LoRa arduino zariadenia Uno a Pro Mini
+# LlRa Arduino
+Arduino Uno and Arduino Pro Mini source files for Arduino IDE.
